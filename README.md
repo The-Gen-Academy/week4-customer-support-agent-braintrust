@@ -1,6 +1,6 @@
 # Customer Support Agent — Braintrust Evaluation
 
-This project is part of the **Week 4 course content of Mastering Agentic AI** and demonstrates how to evaluate a customer-support classification agent using Braintrust.
+This project is part of the **week 4 course content of Mastering Agentic AI** and demonstrates how to evaluate a customer-support classification agent using Braintrust.
 
 ## What the project does
 
