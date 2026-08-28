@@ -1,0 +1,15 @@
+braintrust
+autoevals
+braintrust-langchain
+langgraph
+langchain-openai
+langchain-core
+openai
+pandas
+scikit-learn
+pydantic
+tqdm
+openpyxl
+python-dotenv
+jupyter
+ipykernel

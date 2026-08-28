@@ -1,0 +1,10 @@
+.env
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+data/human-review-v1.csv
+braintrust_results_v1.csv
+braintrust_results_v2.csv
